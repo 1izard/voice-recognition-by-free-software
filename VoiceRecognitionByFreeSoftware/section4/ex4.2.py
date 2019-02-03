@@ -29,7 +29,7 @@ def main():
         if abs(diff) == 0:
             break
 
-    print(w_arr)
+    print("\nresult w_arr :", w_arr)
 
 
 if __name__ == "__main__":
